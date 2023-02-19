@@ -24,7 +24,7 @@
         </div>
       </div>
       <div class="col-lg-4 offset-lg-1 p-0">
-          <img class="rounded-2" src="{screenshot}" alt="" width="720">
+          <img class="rounded-2 img-fluid" src="{screenshot}" alt="" width="720">
       </div>
     </div>
   </div> 
