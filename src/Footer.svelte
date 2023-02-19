@@ -19,7 +19,7 @@
         
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
             <li class="ms-3"><a class="text-light" href="https://github.com/VentGrey/Epitaph"><GitHub height={48} width={48}/></a></li>
-            <li class="ms-3"><a class="text-warning-cpt" href="https://github.com/leftwm/leftwm"><Left height={48} width={48}/></a></li>
+            <li class="ms-3"><a class="text-yellow" href="https://github.com/leftwm/leftwm"><Left height={48} width={48}/></a></li>
         </ul>
     </footer>
 </div>

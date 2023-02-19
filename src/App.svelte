@@ -1,5 +1,10 @@
 <script lang="ts">
+  /* Assets Import */
   import logo from "./assets/icon.png";
+  import GoToTop from "./components/GoToTop.svelte";
+
+  /* Components import */
+  import Hero from "./components/Hero.svelte";
   import Footer from "./Footer.svelte";
 </script>
 
@@ -7,7 +12,13 @@
 <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
       <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
         <img height="64" width="64" class="img-fluid mx-2" src="{logo}" alt="Epitaph logo">
-        <span class="fw-light text-light fs-1">Epitaph</span>
+        <span class="fw-light fs-1 text-red">E</span>
+        <span class="fw-light fs-1 text-peach">P</span>
+        <span class="fw-light fs-1 text-yellow">I</span>
+        <span class="fw-light fs-1 text-green">T</span>
+        <span class="fw-light fs-1 text-blue">A</span>
+        <span class="fw-light fs-1 text-purple">P</span>
+        <span class="fw-light fs-1 text-light">H</span>
       </a>
 
       <ul class="nav nav-pills">
@@ -19,6 +30,10 @@
 
 
 <!-- Place the main content here -->
+<Hero/>
+
+<!-- Place the Go to top button here -->
+<GoToTop/>
 
 <!-- Always show footer-->
 <Footer/>
