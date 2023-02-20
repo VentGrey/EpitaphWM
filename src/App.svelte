@@ -31,7 +31,7 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#home" class="nav-link text-light text-decoration-none border mx-2" aria-current="page">Home</a></li>
+        <li class="nav-item"><a rel="noreferrer" target="_blank" href="https://youtu.be/vXrpFxHfppI?t=372" class="nav-link text-light text-decoration-none border mx-2" aria-current="page">Why Epitaph?</a></li>
         <li class="nav-item"><a rel="noreferrer" target="_blank" href="https://github.com/VentGrey/Epitaph/wiki" class="nav-link text-light text-decoration-none border mx-2">Install</a></li>
         <li class="nav-item"><a href="#music" class="nav-link text-decoration-none text-light border mx-2">Support music!</a></li>
       </ul>
