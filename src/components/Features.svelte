@@ -35,7 +35,7 @@
     }
 </style>
 
-<div class="container px-4 py-5 text-light">
+<div id="content" class="container px-4 py-5 text-light">
     <h2 class="pb-2 fw-bold display-4">Features</h2>
     <p class="lead">Epitaph comes with a handful of features for you to enjoy using it first-time. These are the most important ones:</p>
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">

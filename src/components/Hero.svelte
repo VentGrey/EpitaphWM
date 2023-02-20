@@ -20,7 +20,7 @@
         Epitaph aims to help you transition by giving you a theme that is “as complete as I can provide” to help newcomers to adapt and slowly build an environment they like.</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
           <a target="_blank" rel="noreferrer" href="https://github.com/VentGrey/Epitaph/wiki" class="btn btn-light btn-lg px-4 me-md-2 fw-bold">Install</a>
-          <a href="#information" class="btn btn-outline-danger btn-lg px-4">Read more...</a>
+          <a href="#content" class="btn btn-outline-danger btn-lg px-4">Read more...</a>
         </div>
       </div>
       <div class="col-lg-4 offset-lg-1 p-0">
