@@ -8,6 +8,7 @@
   /* Components import */
   import Hero from "./components/Hero.svelte";
   import Footer from "./Footer.svelte";
+  import Contributors from "./components/Contributors.svelte";
 </script>
 
 <style>
@@ -41,6 +42,7 @@
 <Hero/>
 <Features/>
 <Music/>
+<Contributors/>
 
 <!-- Place the Go to top button here -->
 <GoToTop/>
