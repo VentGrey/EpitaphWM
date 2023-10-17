@@ -5,6 +5,7 @@
     import linkin from "../assets/linkinpark.jpg";
     import opeth from "../assets/opeth.jpg";
     import steven from "../assets/stevenwilson.jpg";
+    import alcest from "../assets/alcest.jpg";
 
     /* Icons import */
     import HeartFill from "svelte-bootstrap-icons/lib/HeartFill.svelte";
@@ -63,6 +64,15 @@
                 <div class="d-grid my-2 gap-2">
                     <a rel="noreferrer" target="_blank" href="https://stevenwilsonhq.com/sw/" class="btn btn-sm btn-dark">Support <HeartFill class="text-red"/></a>
                     <a rel="noreferrer" target="_blank" href="https://open.spotify.com/album/2xJFvV7JzoYYMere5rqjVf?si=a8bc17b27d1943e2" class="btn btn-sm btn-dark">Listen legally <Spotify class="text-green"/> </a>
+                </div>
+            </figure>
+        </div>
+        <div class="col">
+            <figure>
+                <img height="150" width="150" class="rounded-3" src="{alcest}" alt="Portada del álbum 'Ecailles de Lune'">
+                <div class="d-grid my-2 gap-2">
+                    <a rel="noreferrer" target="_blank" href="https://alcestmerch.com/" class="btn btn-sm btn-dark">Support <HeartFill class="text-red"/></a>
+                    <a rel="noreferrer" target="_blank" href="https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7?si=brVlAFELQsy7IB7IVMubDw" class="btn btn-sm btn-dark">Listen legally <Spotify class="text-green"/> </a>
                 </div>
             </figure>
         </div>

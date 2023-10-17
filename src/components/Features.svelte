@@ -113,9 +113,9 @@
       <li>A good-loking rofi configuration file. 👀</li>
       <li>Auto-backup to your config files at installation time. 📑</li>
       <li>POSIX SH compliant, minimal up and down scripts for faster reloading. ⚡️</li>
-      <li>Beautifully configured Polybar. 🦢</li>
       <li>Beautiful custom-made wallpapers. 🖼️</li>
       <li>Auto-magick wallpaper slideshows. 🪄</li>
       <li>Compatible with the latest available LeftWM. 🧬</li>
+      <li>A small, lightweight calendar written in Perl.📆</li>
     </ul>
 </div>
